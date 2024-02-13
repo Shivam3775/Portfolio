@@ -203,13 +203,13 @@ header {
   width: 70%;
 }
 .progress-line .sql {
-  width: 50%;
+  width: 80%;
 }
 .progress-line .javascript {
-  width: 50%;
+  width: 60%;
 }
 .progress-line .c {
-  width: 50%;
+  width: 80%;
 }
 
 .bar .progress-line span::before {
