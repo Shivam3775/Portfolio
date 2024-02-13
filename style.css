@@ -242,16 +242,16 @@ header {
   content: "80%";
 }
 .progress-line .css::after {
-  content: "70%";
+  content: "50%";
 }
 .progress-line .sql::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line .javascript::after {
-  content: "50%";
+  content: "60%";
 }
 .progress-line .c::after {
-  content: "50%";
+  content: "80%";
 }
 
 .navbar.solid {
