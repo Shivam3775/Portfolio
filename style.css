@@ -200,7 +200,7 @@ header {
   width: 80%;
 }
 .progress-line .css {
-  width: 70%;
+  width: 50%;
 }
 .progress-line .sql {
   width: 80%;
@@ -245,7 +245,7 @@ header {
   content: "50%";
 }
 .progress-line .sql::after {
-  content: "70%";
+  content: "80%";
 }
 .progress-line .javascript::after {
   content: "60%";
